@@ -4,7 +4,13 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            string WordOne = "Hello";
+            string WordTwo = "World";
+
+            // Concatonate using + method
+            Console.WriteLine(WordOne + " " + WordTwo);
+
+            
         }
     }
 }
