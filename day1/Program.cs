@@ -1,16 +1,20 @@
-﻿namespace day1
+﻿using System;
+
+namespace day1
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            string WordOne = "Hello";
-            string WordTwo = "World";
+            int z;
 
-            // Concatonate using + method
-            Console.WriteLine(WordOne + " " + WordTwo);
+            Console.WriteLine("Hello, C#");
 
-            
+            string name = typeof(Program).Namespace ?? "None!";
+
+            Console.WriteLine($"Namespace: {name}");
+
+            throw new Exception();
         }
     }
 }
