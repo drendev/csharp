@@ -1,0 +1,15 @@
+C:\Users\aldren\source\repos\csharp\day2\Vocabualry\bin\Debug\net8.0\Vocabulary.exe
+C:\Users\aldren\source\repos\csharp\day2\Vocabualry\bin\Debug\net8.0\Vocabulary.deps.json
+C:\Users\aldren\source\repos\csharp\day2\Vocabualry\bin\Debug\net8.0\Vocabulary.runtimeconfig.json
+C:\Users\aldren\source\repos\csharp\day2\Vocabualry\bin\Debug\net8.0\Vocabulary.dll
+C:\Users\aldren\source\repos\csharp\day2\Vocabualry\bin\Debug\net8.0\Vocabulary.pdb
+C:\Users\aldren\source\repos\csharp\day2\Vocabualry\obj\Debug\net8.0\Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aldren\source\repos\csharp\day2\Vocabualry\obj\Debug\net8.0\Vocabulary.AssemblyInfoInputs.cache
+C:\Users\aldren\source\repos\csharp\day2\Vocabualry\obj\Debug\net8.0\Vocabulary.AssemblyInfo.cs
+C:\Users\aldren\source\repos\csharp\day2\Vocabualry\obj\Debug\net8.0\Vocabulary.csproj.CoreCompileInputs.cache
+C:\Users\aldren\source\repos\csharp\day2\Vocabualry\obj\Debug\net8.0\Vocabulary.sourcelink.json
+C:\Users\aldren\source\repos\csharp\day2\Vocabualry\obj\Debug\net8.0\Vocabulary.dll
+C:\Users\aldren\source\repos\csharp\day2\Vocabualry\obj\Debug\net8.0\refint\Vocabulary.dll
+C:\Users\aldren\source\repos\csharp\day2\Vocabualry\obj\Debug\net8.0\Vocabulary.pdb
+C:\Users\aldren\source\repos\csharp\day2\Vocabualry\obj\Debug\net8.0\Vocabulary.genruntimeconfig.cache
+C:\Users\aldren\source\repos\csharp\day2\Vocabualry\obj\Debug\net8.0\ref\Vocabulary.dll

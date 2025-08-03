@@ -1,0 +1,5 @@
+C:\Users\aldren\Source\Repos\csharp\day2\Vocabualry\obj\Debug\net8.0\Vocabualry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aldren\Source\Repos\csharp\day2\Vocabualry\obj\Debug\net8.0\Vocabualry.AssemblyInfoInputs.cache
+C:\Users\aldren\Source\Repos\csharp\day2\Vocabualry\obj\Debug\net8.0\Vocabualry.AssemblyInfo.cs
+C:\Users\aldren\Source\Repos\csharp\day2\Vocabualry\obj\Debug\net8.0\Vocabualry.csproj.CoreCompileInputs.cache
+C:\Users\aldren\Source\Repos\csharp\day2\Vocabualry\obj\Debug\net8.0\Vocabualry.sourcelink.json
